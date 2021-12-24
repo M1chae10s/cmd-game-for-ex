@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\M1chae10s\source\repos\DOOM_CPP_EDITION\DOOM_CPP_EDITION\Story.h(46,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\M1chae10s\source\repos\DOOM_CPP_EDITION\DOOM_CPP_EDITION\Story.h(114,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\M1chae10s\source\repos\DOOM_CPP_EDITION\DOOM_CPP_EDITION\Story.h(120,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\M1chae10s\source\repos\DOOM_CPP_EDITION\DOOM_CPP_EDITION\Story.h(144,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\M1chae10s\source\repos\DOOM_CPP_EDITION\DOOM_CPP_EDITION\Story.h(252,5): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\M1chae10s\source\repos\DOOM_CPP_EDITION\DOOM_CPP_EDITION\Story.h(259,5): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\M1chae10s\source\repos\DOOM_CPP_EDITION\DOOM_CPP_EDITION\Story.h(321,3): warning C4551: в вызове функции отсутствует список аргументов
+  DOOM_CPP_EDITION.vcxproj -> C:\Users\M1chae10s\source\repos\DOOM_CPP_EDITION\Debug\DOOM_CPP_EDITION.exe
